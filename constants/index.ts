@@ -74,28 +74,28 @@ export const footerLinks = [
   {
     title: "About",
     links: [
-      { title: "How it works", url: "/" },
-      { title: "Featured", url: "/" },
-      { title: "Partnership", url: "/" },
-      { title: "Bussiness Relation", url: "/" },
+      { title: "How it works", url: "https://github.com/mah9ah" },
+      { title: "Featured", url: "https://github.com/mah9ah" },
+      { title: "Partnership", url: "https://github.com/mah9ah" },
+      { title: "Bussiness Relation", url: "https://github.com/mah9ah" },
     ],
   },
   {
     title: "Company",
     links: [
-      { title: "Events", url: "/" },
-      { title: "Blog", url: "/" },
-      { title: "Podcast", url: "/" },
-      { title: "Invite a friend", url: "/" },
+      { title: "Events", url: "https://github.com/mah9ah" },
+      { title: "Blog", url: "https://github.com/mah9ah" },
+      { title: "Podcast", url: "https://github.com/mah9ah" },
+      { title: "Invite a friend", url: "https://github.com/mah9ah" },
     ],
   },
   {
     title: "Socials",
     links: [
-      { title: "Discord", url: "/" },
-      { title: "Instagram", url: "/" },
-      { title: "Twitter", url: "/" },
-      { title: "Facebook", url: "/" },
+      { title: "Discord", url: "https://www.linkedin.com/in/sediqghani/" },
+      { title: "Instagram", url: "https://www.linkedin.com/in/sediqghani/" },
+      { title: "Twitter", url: "https://www.linkedin.com/in/sediqghani/" },
+      { title: "Facebook", url: "https://www.linkedin.com/in/sediqghani/" },
     ],
   },
 ];
